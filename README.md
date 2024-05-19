@@ -27,7 +27,7 @@ https://github.com/MYSELF-SAYAN/generator/assets/116438215/97802506-3b9f-4905-82
 ## <a name="technologies"> 🛠 Tech-stacks </a>
 **Frontend:** React Js, Tailwind CSS, Redux JS
 
-**Backend:** Express Js, MySql
+**Backend:** Express Js, MySql , Google vertex api ,  Gemini ai
 
 
 
